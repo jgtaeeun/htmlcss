@@ -1,0 +1,23 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+:root{
+    --gray-light: #f1f5f9;
+    --grey-dark: #0f172a;
+}
+body{
+    line-height: 1.5;
+    background-color: pink;
+    color:var(--gray-dark);
+}
+.card-blog-img{
+    width: 100%;
+}
+.card-blog{
+    width: 90vw;
+   /* width: 750px;*/
+}
